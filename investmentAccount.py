@@ -22,3 +22,5 @@ class InvestmentAccount(Account):
             print("Investment amount cannot be greater than account balance.")
         else:
             self.__investment = invest
+
+
